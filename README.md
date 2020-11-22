@@ -1,0 +1,3 @@
+# my_project
+1.splider文件data.py中marketMaxPageNumber，blogMaxPageNumber，securityMaxPageNumber，mainMaxPageNumber控制不同类型信息的抓去最大页数
+2.抓去到的信息存储在文件中，json形式，按类别命名
